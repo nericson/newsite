@@ -22,8 +22,8 @@ title: Teaching Dossier
 email: miyac@mcmaster.ca
 description: >- # this means to ignore newlines until "baseurl:"
   My Teaching Portfolio
-baseurl: "/my-website.git" # the subpath of your site, e.g. /blog
-url: "https://github.com/cmiya" # the base hostname & protocol for your site, e.g. http://example.com
+baseurl: "/my-website" # the subpath of your site, e.g. /blog
+url: "https://cmiya.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: jekyllrb
 github_username:  cmiya
 
