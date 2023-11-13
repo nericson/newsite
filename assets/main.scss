@@ -15,12 +15,12 @@ h1 {
   font-size: 3em;
   font-weight: 200;
   letter-spacing: .1em;
-  margin: 15px;
+  margin: 20px;
 }
 
 h2 {
   font-size: .5em;
-  margin: 15px;
+  margin: 20px;
   font-weight: 300;
 }
 
@@ -36,5 +36,9 @@ figure {
 }
 
 figcaption {
-  padding: 10px;
+  padding-top: 10px;
+}
+
+.wrapper {
+  max-width: calc(800px - (5px * 2));
 }
