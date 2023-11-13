@@ -40,5 +40,23 @@ figcaption {
 }
 
 .wrapper {
-  max-width: calc(800px - (5px * 2));
+  max-width: calc(850px - (5px * 2));
+}
+
+/* HEADER */
+
+.site-header {
+  max-width: none !important;
+}
+
+.site-title, .site-title:visited {
+    color: #424242;
+}
+
+.site-title {
+  font-weight: 200;
+}
+
+.site-nav .page-link {
+  color: grey;
 }
