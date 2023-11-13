@@ -8,7 +8,6 @@ permalink: /portfolio/
 
 ## Senior Undergraduate
 
-<img src="/assets/img/operator.png" alt="Operator" height="250"/>
 <img src="../assets/img/operator.png" alt="Operator" height="250"/>
 *Oana Avasilichioaei, "Operator" [screenshot] , 2019*
 
@@ -18,7 +17,7 @@ What is/are “data” anyway? How have stories told about and through data shap
 
 ## Junior Undergraduate
 
-<img src="./images/first-screening.png" alt="First Screening" height="250"/>
+<img src="../assets/img/first-screening.png" alt="First Screening" height="250"/>
 *bpNichol, First Screening [screenshot], 1984*
 
 ### Intro to Critical Analysis: Techno-Narratives
