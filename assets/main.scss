@@ -12,8 +12,8 @@ h1, h2, h3 {
 }
 
 h1 {
-  font-size: 2.5em;
-  font-weight: 300;
+  font-size: 3em;
+  font-weight: 200;
 }
 
 h2 {
@@ -22,4 +22,9 @@ h2 {
 
 figure {
   float: left;
+  margin: 10px;
+}
+
+figcaption {
+  padding: 5px;
 }
