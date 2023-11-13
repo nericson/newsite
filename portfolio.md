@@ -8,11 +8,21 @@ permalink: /portfolio/
 
 ## Senior Undergraduate
 
+<figure>
+<img title="Operator" alt="Alt text" src="/images/operator.png" width="250">
+<figcaption>Oana Avasilichioaei, "Operator" [screenshot] , 2019</figcaption>
+</figure>
+
 ### Digital Cultures: The Datafied/Datafying Subject
 
 What is/are “data” anyway? How have stories told about and through data shaped our perception of ourselves and the world around us? In this course, we will explore the implications of the datafied subject, including the rise of dataveillance and its role in the construction and commodification of the digital self. Together, we will think-through how data have been imagined by different communities throughout history and wrestle with the contradictions and seductive potentialities of the data dys/utopia. We will look, as well, to data activism and surveillance art, which reimagine data practice as tools of counter and anti-dataveillance resistance and critique. As part of the course, students will carry out a research creation project, using the data literacy skills we have developed over the semester to critically engage with and creatively interpret and respond to a data set.
 
 ## Junior Undergraduate
+
+<figure>
+<img title="Operator" alt="Alt text" src="/images/first-screening.png" width="250">
+<figcaption>Oana Avasilichioaei, "Operator" [screenshot] , 2019</figcaption>
+</figure>
 
 ### Intro to Critical Analysis: Techno-Narratives
 
