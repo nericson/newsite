@@ -4,6 +4,8 @@ title: Portfolio
 permalink: /portfolio/
 ---
 
+# Courses Taught
+
 ## Senior Undergraduate
 
 ### Digital Cultures: The Datafied/Datafying Subject
