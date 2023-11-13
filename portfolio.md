@@ -8,7 +8,7 @@ permalink: /portfolio/
 
 ## Senior Undergraduate
 
-<img src="./images/operator.png" alt="Operator" height="250"/>
+<img src="assets/img/operator.png" alt="Operator" height="250"/>
 *Oana Avasilichioaei, "Operator" [screenshot] , 2019*
 
 ### Digital Cultures: The Datafied/Datafying Subject
