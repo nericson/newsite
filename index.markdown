@@ -3,8 +3,7 @@
 # To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 
 layout: page
-title: Chelsea Miya
-permalink: /home/
+title: home
 ---
 
 ![profile image](https://spokenweb.ca/wp-content/uploads/2020/02/unnamed-400x400.jpg)
