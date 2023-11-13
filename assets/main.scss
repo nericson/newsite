@@ -14,17 +14,20 @@ h1, h2, h3 {
 h1 {
   font-size: 3em;
   font-weight: 200;
+  letter-spacing: .2em;
+  margin: 15px;
+  
 }
 
 h2 {
-  font-size: 1em;
+  font-size: .5em;
 }
 
 figure {
   float: left;
-  margin: 10px;
+  margin: 15px;
 }
 
 figcaption {
-  padding: 5px;
+  padding: 10px;
 }
