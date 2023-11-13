@@ -8,10 +8,8 @@ permalink: /portfolio/
 
 ## Senior Undergraduate
 
-<figure>
-<img title="Operator" alt="Alt text" src="./images/operator.png" width="250">
-<figcaption>Oana Avasilichioaei, "Operator" [screenshot] , 2019</figcaption>
-</figure>
+<img src="./images/operator.png" alt="Operator" height="250"/>
+*Oana Avasilichioaei, "Operator" [screenshot] , 2019*
 
 ### Digital Cultures: The Datafied/Datafying Subject
 
@@ -19,10 +17,8 @@ What is/are “data” anyway? How have stories told about and through data shap
 
 ## Junior Undergraduate
 
-<figure>
-<img title="Operator" alt="Alt text" src="./images/first-screening.png" width="250">
-<figcaption>Oana Avasilichioaei, "Operator" [screenshot] , 2019</figcaption>
-</figure>
+<img src="./images/first-screening.png" alt="First Screening" height="250"/>
+*bpNichol, First Screening [screenshot], 1984*
 
 ### Intro to Critical Analysis: Techno-Narratives
 
