@@ -9,7 +9,7 @@ permalink: /portfolio/
 ## Senior Undergraduate
 
 <figure>
-<img title="Operator" alt="Alt text" src="/images/operator.png" width="250">
+<img title="Operator" alt="Alt text" src="./images/operator.png" width="250">
 <figcaption>Oana Avasilichioaei, "Operator" [screenshot] , 2019</figcaption>
 </figure>
 
@@ -20,7 +20,7 @@ What is/are “data” anyway? How have stories told about and through data shap
 ## Junior Undergraduate
 
 <figure>
-<img title="Operator" alt="Alt text" src="/images/first-screening.png" width="250">
+<img title="Operator" alt="Alt text" src="./images/first-screening.png" width="250">
 <figcaption>Oana Avasilichioaei, "Operator" [screenshot] , 2019</figcaption>
 </figure>
 
