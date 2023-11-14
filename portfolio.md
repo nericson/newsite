@@ -4,27 +4,31 @@ title: Portfolio
 permalink: /portfolio/
 ---
 
-# Courses Taught
+# Portfolio Title
 
-### Senior Undergraduate
+### Subheading
 
 <figure>
-<img src="../assets/img/operator.png" alt="Operator" height="250"/>
-<figcaption>Oana Avasilichioaei, "Operator" [screenshot] , 2019</figcaption>
+<img src="../assets/img/un_chat.jpeg" alt="Sample Image" height="250"/>
+<figcaption>Image Caption</figcaption>
 </figure>
 
 
-## Digital Cultures: The Datafied/Datafying Subject
+## Heading
 
-What is/are “data” anyway? How have stories told about and through data shaped our perception of ourselves and the world around us? In this course, we will explore the implications of the datafied subject, including the rise of dataveillance and its role in the construction and commodification of the digital self. Together, we will think-through how data have been imagined by different communities throughout history and wrestle with the contradictions and seductive potentialities of the data dys/utopia. We will look, as well, to data activism and surveillance art, which reimagine data practice as tools of counter and anti-dataveillance resistance and critique. As part of the course, students will carry out a research creation project, using the data literacy skills we have developed over the semester to critically engage with and creatively interpret and respond to a data set.
+Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
 
-### Junior Undergraduate
+Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+
+### Subheading
 
 <figure>
-<img src="../assets/img/first-screening.png" alt="First Screening" height="250"/>
-<figcaption>bpNichol, First Screening [screenshot], 1984</figcaption>
+<img src="../assets/img/divine_cat.jpeg" alt="Sample Image" height="250"/>
+<figcaption>Image Caption</figcaption>
 </figure>
 
-## Intro to Critical Analysis: Techno-Narratives
+## Heading
 
-In this course, students will explore methods of critical analysis. Through engagement with 'techno-narratives,' stories told about and through technology, students will develop their abilities to communicate original, evidence-based interpretation of texts in a variety of mediums. We will consider how technological developments have impacted the narrative form and given rise to new modes of storytelling including science fiction, interactive texts, and video games. Students will engage with key questions such as how does technology shape our perception of ourselves and the world around us? And what does it mean to be human in the age of the machine?
+Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+
+Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.

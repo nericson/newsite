@@ -18,14 +18,14 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: Teaching Dossier
-email: miyac@mcmaster.ca
+title: My Website
+email: 
 description: >- # this means to ignore newlines until "baseurl:"
-  My Teaching Portfolio
-baseurl: "/my-website" # the subpath of your site, e.g. /blog
+  Brought to you by the Lewis & Ruth Sherman Centre for Digital Scholarship and the McMaster University Library.
+baseurl: "/website-template" # the subpath of your site, e.g. /blog
 url: "https://cmiya.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: jekyllrb
-github_username:  cmiya
+github_username:  Jekyll
 
 # Build settings
 theme: minima
@@ -36,6 +36,8 @@ header_pages:
   - index.markdown
   - about.markdown
   - portfolio.md
+  - blog.md
+
   
   
 # Exclude from processing.

@@ -5,14 +5,18 @@
 layout: page
 title: Home
 ---
-# Chelsea Miya
+# Name
 
-<!-- ![profile image](https://spokenweb.ca/wp-content/uploads/2020/02/unnamed-400x400.jpg) -->
+<!--
+![profile image](https://upload.wikimedia.org/wikipedia/commons/0/03/Cat_wedding.jpeg)
+-->
 
-<figure>
-<img src="./assets/img/miya-bio.jpeg" alt="miya" height="300"/>
-</figure>
+<center><img src="./assets/img/cat_wedding.jpeg" alt="Sample Image" height="250" style="padding:20px;"/></center>
 
-I am a Postdoctoral Fellow with the [Sherman Centre for Digital Scholarship](https://scds.ca/) at McMaster University. My research and teaching interests include critical code studies, nineteenth-century American literature, and the digital humanities. I am a Research Affiliate of the SpokenWeb Network, and I have held research positions with the Kule Institute for Advanced Study (KIAS) and the Canadian Writing Research Collaboratory (CWRC). I co-edited the anthology *Right Research: Modelling Sustainable Research Practices in the Anthropocene* (Open Book Publishers 2021), and my article “Student-Driven Digital Learning: A Call to Action” appeared in People, Practice, Power: Digital Humanities Outside the Center (MIT Press 2021).
 
-I am also a podcast creator! You can listen to my episodes "Sounds of Data," "Academics on Air," and "Drum Codes" on [The SpokenWeb Podcast](https://spokenweb.ca/podcast/spokenweb-podcast/).
+Welcome to my website! This template was created using the [Minima](https://github.com/jekyll/minima) theme.
+
+
+Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+
+Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
